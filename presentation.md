@@ -63,7 +63,7 @@
 
 ---
 
-## How to Contribute to Open Source? 🛠
+## How to Contribute Code to Open Source? 🛠
 
 ---
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 3. Read 📚
+## 3. Read all the things📚
 
 ---
 
